@@ -1,4 +1,4 @@
-💱 Currency Converter App
+# 💱 Currency Converter App
 
 ## 📖 About the Project
 
@@ -41,6 +41,5 @@ Name: Aashish Prasai
 From: Nepal 🇳🇵
 Currently in: Japan 🇯🇵
 
-I am a student learning JavaScript, React JS, and Data Science.
-This project is part of my practice to improve my frontend development skills.
-I enjoy building small, useful tools like this one!
+I’m a student learning JavaScript, React, and Web Development.
+This is one of my beginner projects to improve my coding skills and build confidence.
