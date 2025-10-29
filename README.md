@@ -33,13 +33,15 @@ I made this project while learning JavaScript to understand how APIs work.
    ```bash
    git clone https://github.com/student-aashish/currency_converter.git
    cd currency_converter
-
-   👨‍🎓 Author
    ```
 
+👨‍🎓 Author
 Name: Aashish Prasai
 From: Nepal 🇳🇵
 Currently in: Japan 🇯🇵
-
 I’m a student learning JavaScript, React, and Web Development.
 This is one of my beginner projects to improve my coding skills and build confidence.
+
+```
+
+```
